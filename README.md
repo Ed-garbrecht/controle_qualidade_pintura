@@ -1,1 +1,1 @@
-# controle-pintura
+# controle_pintura
