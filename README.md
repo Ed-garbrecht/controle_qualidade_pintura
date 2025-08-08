@@ -1,1 +1,1 @@
-# controle_pintura
+# controle_qualidade_pintura
